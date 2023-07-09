@@ -27,7 +27,7 @@ function Contact() {
                     <a href="#"><i class="bx bxl-github"></i></a>
                     <a href="#"><i class="bx bxl-google"></i></a>
                 </div>
-                <div class="details">
+                {/* <div class="details">
                     <div class="main-d">
                         <a href="#"><i class="bx bxs-location-plus"></i>Main Street 55, ny, ny</a>
                     </div>
@@ -40,7 +40,7 @@ function Contact() {
                     <div class="main-d">
                         <a href="#"><i class="bx bxs-bell"></i>Youtube</a>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     </section>
